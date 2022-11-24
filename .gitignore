@@ -1,0 +1,5 @@
+WordGuessr.vcxproj
+WordGuessr.vcxproj.filters
+WordGuessr.vcxproj.user
+SDL2.dll
+SDL2_ttf.dll

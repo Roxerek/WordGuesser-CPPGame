@@ -1,0 +1,13 @@
+﻿  Dictionary.cpp
+C:\Users\kubas\source\repos\WordGuessr\WordGuessr\Dictionary.cpp(9,17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KeyInputEventsImpl.cpp
+C:\Users\kubas\source\repos\WordGuessr\WordGuessr\Sizes.h(8,2): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-WINDOW_HEIGHT>' when no variable is declared
+  TextItemManager.cpp
+C:\Users\kubas\source\repos\WordGuessr\WordGuessr\Sizes.h(8,2): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-WINDOW_HEIGHT>' when no variable is declared
+  VectorUtil.cpp
+  WordGuessr.cpp
+C:\Users\kubas\source\repos\WordGuessr\WordGuessr\Sizes.h(8,2): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-WINDOW_HEIGHT>' when no variable is declared
+  WordsContent.cpp
+C:\Users\kubas\source\repos\WordGuessr\WordGuessr\Sizes.h(8,2): warning C4091: 'typedef ': ignored on left of '<unnamed-enum-WINDOW_HEIGHT>' when no variable is declared
+  Generating Code...
+  WordGuessr.vcxproj -> C:\Users\kubas\source\repos\WordGuessr\x64\Debug\WordGuessr.exe
